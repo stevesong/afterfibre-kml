@@ -1,0 +1,4 @@
+This repository contains KML maps of terrestrial fibre-optic cable projects in Africa.  The purpose of this repository is to serve as source for the AfTerFibre map.  After a fibre map in image format has been traced in Google Earth, the KML for the trace is exported to a unique filename based on the name of the operator and whatever additional info is required to ensure the description is unique.  KML maps are then uploaded to this repo for later processing into the larger AfTerFibre data store.
+
+It's early days so much about this could change.  Questions to Steve Song <stephen.song@gmail.com>
+
