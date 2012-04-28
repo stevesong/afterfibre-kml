@@ -2,42 +2,9 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>TDM.kml</name>
-	<StyleMap id="msn_ylw-pushpin18">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin35</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin43</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin17">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin21</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin22</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ylw-pushpin16">
+	<Style id="sh_ylw-pushpin">
 		<IconStyle>
 			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff00ffff</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin26">
-		<IconStyle>
-			<scale>1.1</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
@@ -48,32 +15,19 @@
 			<width>10</width>
 		</LineStyle>
 	</Style>
-	<StyleMap id="msn_ylw-pushpin21">
+	<StyleMap id="msn_ylw-pushpin">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin43</styleUrl>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin18</styleUrl>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_ylw-pushpin22">
+	<Style id="sn_ylw-pushpin">
 		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff00ffff</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin19">
-		<IconStyle>
-			<scale>1.3</scale>
+			<scale>1.1</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
@@ -87,27 +41,14 @@
 	<StyleMap id="msn_ylw-pushpin47">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin18</styleUrl>
+			<styleUrl>#sn_ylw-pushpin183</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin21</styleUrl>
+			<styleUrl>#sh_ylw-pushpin210</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_ylw-pushpin16">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff00ffff</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin17">
+	<Style id="sh_ylw-pushpin0">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -120,182 +61,171 @@
 			<width>10</width>
 		</LineStyle>
 	</Style>
-	<StyleMap id="msn_ylw-pushpin22">
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin183">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin210">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin25</styleUrl>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin32</styleUrl>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin41">
+	<StyleMap id="msn_ylw-pushpin1">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin26</styleUrl>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin19</styleUrl>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_ylw-pushpin21">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffff0000</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin21">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff00ffff</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin43">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff00ffff</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin18">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffff0000</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin32">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffff0000</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin43">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffff0000</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin35">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffff0000</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin38">
+	<StyleMap id="msn_ylw-pushpin2">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin32</styleUrl>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin16</styleUrl>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_ylw-pushpin18">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff00ffff</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin25">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffff0000</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin37">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin16</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin17</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ylw-pushpin32">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff00ffff</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
 	<Folder>
 		<name>TDM</name>
+		<open>1</open>
+		<description>Name:  TDM
+Cable type: 
+ISO2:mz
+Source URL: 
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2011
+Go live date:  
+Capacity:  
+Access Model: 
+Owner:  Kenya Data Networks
+Operator: 
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2</description>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
 		<Placemark>
 			<name>Pemba - Lichinga</name>
-			<description>Existing fibre optic infrastructure
-Source: http://farm7.static.flickr.com/6150/6035058808_7dc34bcf27_b.jpg</description>
+			<description>Phase Name: Existing fibre optic infrastructure
+Name:  TDM
+Cable type: 
+ISO2:mz
+Source URL: http://farm7.static.flickr.com/6150/6035058808_7dc34bcf27_b.jpg
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2011
+Go live date:  
+Capacity:  
+Access Model: 
+Owner:  Kenya Data Networks
+Operator: 
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2
+</description>
 			<styleUrl>#msn_ylw-pushpin47</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
@@ -306,9 +236,27 @@ Source: http://farm7.static.flickr.com/6150/6035058808_7dc34bcf27_b.jpg</descrip
 		</Placemark>
 		<Placemark>
 			<name>Lichinga - Metoro</name>
-			<description>Planned Fibre
-Source: http://farm7.static.flickr.com/6150/6035058808_7dc34bcf27_b.jpg</description>
-			<styleUrl>#msn_ylw-pushpin17</styleUrl>
+			<description>Phase Name: Planned fibre optic infrastructure
+Name:  TDM
+Cable type: 
+ISO2:mz
+Source URL: http://farm7.static.flickr.com/6150/6035058808_7dc34bcf27_b.jpg
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2011
+Go live date:  
+Capacity:  
+Access Model: 
+Owner:  Kenya Data Networks
+Operator: 
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2
+</description>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -318,9 +266,27 @@ Source: http://farm7.static.flickr.com/6150/6035058808_7dc34bcf27_b.jpg</descrip
 		</Placemark>
 		<Placemark>
 			<name>Mutare - Cuamba</name>
-			<description>Existing fibre
-Source: http://farm7.static.flickr.com/6150/6035058808_7dc34bcf27_b.jpg</description>
-			<styleUrl>#msn_ylw-pushpin18</styleUrl>
+			<description>Phase Name: Existing fibre optic infrastructure
+Name:  TDM
+Cable type: 
+ISO2:mz
+Source URL: http://farm7.static.flickr.com/6150/6035058808_7dc34bcf27_b.jpg
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2011
+Go live date:  
+Capacity:  
+Access Model: 
+Owner:  Kenya Data Networks
+Operator: 
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2
+</description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -330,9 +296,27 @@ Source: http://farm7.static.flickr.com/6150/6035058808_7dc34bcf27_b.jpg</descrip
 		</Placemark>
 		<Placemark>
 			<name>Nampula - Mocuba</name>
-			<description>Existing Fibre
-Source: http://farm7.static.flickr.com/6150/6035058808_7dc34bcf27_b.jpg</description>
-			<styleUrl>#msn_ylw-pushpin41</styleUrl>
+			<description>Phase Name: Existing fibre optic infrastructure
+Name:  TDM
+Cable type: 
+ISO2:mz
+Source URL: http://farm7.static.flickr.com/6150/6035058808_7dc34bcf27_b.jpg
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2011
+Go live date:  
+Capacity:  
+Access Model: 
+Owner:  Kenya Data Networks
+Operator: 
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2
+</description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -342,9 +326,27 @@ Source: http://farm7.static.flickr.com/6150/6035058808_7dc34bcf27_b.jpg</descrip
 		</Placemark>
 		<Placemark>
 			<name>Gurue - Mutarara</name>
-			<description>Planned Fibre
-Source: http://farm7.static.flickr.com/6150/6035058808_7dc34bcf27_b.jpg</description>
-			<styleUrl>#msn_ylw-pushpin37</styleUrl>
+			<description>Phase Name: Planned fibre optic infrastructure
+Name:  TDM
+Cable type: 
+ISO2:mz
+Source URL: http://farm7.static.flickr.com/6150/6035058808_7dc34bcf27_b.jpg
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2011
+Go live date:  
+Capacity:  
+Access Model: 
+Owner:  Kenya Data Networks
+Operator: 
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2
+</description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -354,9 +356,27 @@ Source: http://farm7.static.flickr.com/6150/6035058808_7dc34bcf27_b.jpg</descrip
 		</Placemark>
 		<Placemark>
 			<name>Caia - Beira - Maputo</name>
-			<description>Existing fibre
-Source: http://farm7.static.flickr.com/6150/6035058808_7dc34bcf27_b.jpg</description>
-			<styleUrl>#msn_ylw-pushpin22</styleUrl>
+			<description>Phase Name: Existing fibre optic infrastructure
+Name:  TDM
+Cable type: 
+ISO2:mz
+Source URL: http://farm7.static.flickr.com/6150/6035058808_7dc34bcf27_b.jpg
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2011
+Go live date:  
+Capacity:  
+Access Model: 
+Owner:  Kenya Data Networks
+Operator: 
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2
+</description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -366,7 +386,27 @@ Source: http://farm7.static.flickr.com/6150/6035058808_7dc34bcf27_b.jpg</descrip
 		</Placemark>
 		<Placemark>
 			<name>Chimoio - Beira</name>
-			<styleUrl>#msn_ylw-pushpin38</styleUrl>
+			<description>Phase Name: Planned fibre optic infrastructure
+Name:  TDM
+Cable type: 
+ISO2:mz
+Source URL: http://farm7.static.flickr.com/6150/6035058808_7dc34bcf27_b.jpg
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2011
+Go live date:  
+Capacity:  
+Access Model: 
+Owner:  Kenya Data Networks
+Operator: 
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2
+</description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -376,9 +416,27 @@ Source: http://farm7.static.flickr.com/6150/6035058808_7dc34bcf27_b.jpg</descrip
 		</Placemark>
 		<Placemark>
 			<name>Chimoio - Maputo  - Swaziland</name>
-			<description>Planned fibre
-Source: http://farm7.static.flickr.com/6150/6035058808_7dc34bcf27_b.jpg</description>
-			<styleUrl>#msn_ylw-pushpin21</styleUrl>
+			<description>Phase Name: Planned fibre optic infrastructure
+Name:  TDM
+Cable type: 
+ISO2:mz
+Source URL: http://farm7.static.flickr.com/6150/6035058808_7dc34bcf27_b.jpg
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2011
+Go live date:  
+Capacity:  
+Access Model: 
+Owner:  Kenya Data Networks
+Operator: 
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2
+</description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
