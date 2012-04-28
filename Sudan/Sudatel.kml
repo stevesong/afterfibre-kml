@@ -2,66 +2,17 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Sudatel.kml</name>
-	<Style id="sh_ylw-pushpin18">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff7f0055</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin161">
+	<StyleMap id="msn_ylw-pushpin">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin31</styleUrl>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin19</styleUrl>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_ylw-pushpin32">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff000055</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin52">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff000055</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin171">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin39</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin172</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ylw-pushpin35">
+	<Style id="sh_ylw-pushpin">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -74,69 +25,17 @@
 			<width>10</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_ylw-pushpin18">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff000055</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin31">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff000055</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin31">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff000055</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin18">
+	<StyleMap id="msn_ylw-pushpin0">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin36</styleUrl>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin185</styleUrl>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_ylw-pushpin36">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff000055</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin21">
+	<Style id="sn_ylw-pushpin">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -149,184 +48,17 @@
 			<width>10</width>
 		</LineStyle>
 	</Style>
-	<StyleMap id="msn_ylw-pushpin36">
+	<StyleMap id="msn_ylw-pushpin1">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin161</styleUrl>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin45</styleUrl>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin210">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin18</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin211</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ylw-pushpin161">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff000055</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin172">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffff0055</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin32">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin220</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin32</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ylw-pushpin220">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff000055</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin44">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff000055</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin45">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff000055</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin172">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin164</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin18</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin232">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin170</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin31</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ylw-pushpin39">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffff0055</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin170">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff000055</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin211">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff000055</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin54">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin44</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin52</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ylw-pushpin185">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff000055</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin164">
+	<Style id="sn_ylw-pushpin0">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -339,17 +71,20 @@
 			<width>10</width>
 		</LineStyle>
 	</Style>
-	<StyleMap id="msn_ylw-pushpin193">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin21</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin35</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ylw-pushpin19">
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000055</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -359,14 +94,64 @@
 		</IconStyle>
 		<LineStyle>
 			<color>ff000055</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f0055</color>
 			<width>10</width>
 		</LineStyle>
 	</Style>
 	<Folder>
 		<name>Sudatel</name>
+		<open>1</open>
+		<description>Name:  Sudatel
+Cable type: 
+ISO2:sd
+Source URL:http://www.flickr.com/photos/ssong/6126030887/
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2011
+Go live date:  
+Capacity:  
+Access Model: Open
+Owner:  Sudatel
+Operator: Sudatel
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2</description>
 		<Placemark>
 			<name>Atbara - Wadi Halfa</name>
-			<styleUrl>#msn_ylw-pushpin210</styleUrl>
+			<description>Name:  Sudatel
+Cable type: 
+ISO2:sd
+Source URL:http://www.flickr.com/photos/ssong/6126030887/
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2011
+Go live date:  
+Capacity:  
+Access Model: Open
+Owner:  Sudatel
+Operator: Sudatel
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2</description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -376,7 +161,25 @@
 		</Placemark>
 		<Placemark>
 			<name>Port Sudan Loop</name>
-			<styleUrl>#msn_ylw-pushpin36</styleUrl>
+			<description>Name:  Sudatel
+Cable type: 
+ISO2:sd
+Source URL:http://www.flickr.com/photos/ssong/6126030887/
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2011
+Go live date:  
+Capacity:  
+Access Model: Open
+Owner:  Sudatel
+Operator: Sudatel
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2</description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -386,7 +189,25 @@
 		</Placemark>
 		<Placemark>
 			<name>Wad Madani - Al Junaynah</name>
-			<styleUrl>#msn_ylw-pushpin232</styleUrl>
+			<description>Name:  Sudatel
+Cable type: 
+ISO2:sd
+Source URL:http://www.flickr.com/photos/ssong/6126030887/
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2011
+Go live date:  
+Capacity:  
+Access Model: Open
+Owner:  Sudatel
+Operator: Sudatel
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2</description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -396,7 +217,25 @@
 		</Placemark>
 		<Placemark>
 			<name>Nyala - Al Fashir</name>
-			<styleUrl>#msn_ylw-pushpin18</styleUrl>
+			<description>Name:  Sudatel
+Cable type: 
+ISO2:sd
+Source URL:http://www.flickr.com/photos/ssong/6126030887/
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2011
+Go live date:  
+Capacity:  
+Access Model: Open
+Owner:  Sudatel
+Operator: Sudatel
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2</description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -406,7 +245,25 @@
 		</Placemark>
 		<Placemark>
 			<name>Sennar - Ad Damazin</name>
-			<styleUrl>#msn_ylw-pushpin161</styleUrl>
+			<description>Name:  Sudatel
+Cable type: 
+ISO2:sd
+Source URL:http://www.flickr.com/photos/ssong/6126030887/
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2011
+Go live date:  
+Capacity:  
+Access Model: Open
+Owner:  Sudatel
+Operator: Sudatel
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2</description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -416,7 +273,25 @@
 		</Placemark>
 		<Placemark>
 			<name>Kosti - Abbeit</name>
-			<styleUrl>#msn_ylw-pushpin54</styleUrl>
+			<description>Name:  Sudatel
+Cable type: 
+ISO2:sd
+Source URL:http://www.flickr.com/photos/ssong/6126030887/
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2011
+Go live date:  
+Capacity:  
+Access Model: Open
+Owner:  Sudatel
+Operator: Sudatel
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2</description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -426,7 +301,25 @@
 		</Placemark>
 		<Placemark>
 			<name>Wad Madani - Ad Douiem</name>
-			<styleUrl>#msn_ylw-pushpin32</styleUrl>
+			<description>Name:  Sudatel
+Cable type: 
+ISO2:sd
+Source URL:http://www.flickr.com/photos/ssong/6126030887/
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2011
+Go live date:  
+Capacity:  
+Access Model: Open
+Owner:  Sudatel
+Operator: Sudatel
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2</description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -436,8 +329,26 @@
 		</Placemark>
 		<Placemark>
 			<name>Abbeit - Uganda border</name>
-			<description>Planned Fibre</description>
-			<styleUrl>#msn_ylw-pushpin171</styleUrl>
+			<description>Phase Name: Planned Fibre
+Name:  Sudatel
+Cable type: 
+ISO2:sd
+Source URL:http://www.flickr.com/photos/ssong/6126030887/
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2011
+Go live date:  
+Capacity:  
+Access Model: Open
+Owner:  Sudatel
+Operator: Sudatel
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2</description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -447,8 +358,26 @@
 		</Placemark>
 		<Placemark>
 			<name>Babanusa - Juba</name>
-			<description>Planned Fibre</description>
-			<styleUrl>#msn_ylw-pushpin193</styleUrl>
+			<description>Phase Name: Planned Fibre
+Name:  Sudatel
+Cable type: 
+ISO2:sd
+Source URL:http://www.flickr.com/photos/ssong/6126030887/
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2011
+Go live date:  
+Capacity:  
+Access Model: Open
+Owner:  Sudatel
+Operator: Sudatel
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2</description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -458,8 +387,26 @@
 		</Placemark>
 		<Placemark>
 			<name>Al Fashir - El Obeid - Khartoum - Abu Dawn</name>
-			<description>Planned Fibre</description>
-			<styleUrl>#msn_ylw-pushpin172</styleUrl>
+			<description>Phase Name: Planned Fibre
+Name:  Sudatel
+Cable type: 
+ISO2:sd
+Source URL:http://www.flickr.com/photos/ssong/6126030887/
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2011
+Go live date:  
+Capacity:  
+Access Model: Open
+Owner:  Sudatel
+Operator: Sudatel
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2</description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
