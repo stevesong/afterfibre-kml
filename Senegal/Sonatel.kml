@@ -2,23 +2,10 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Sonatel.kml</name>
-	<Style id="sh_ylw-pushpin">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffff0000</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
 	<StyleMap id="msn_ylw-pushpin">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -26,6 +13,19 @@
 		</Pair>
 	</StyleMap>
 	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -45,12 +45,12 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_ylw-pushpin0">
+	<Style id="sh_ylw-pushpin">
 		<IconStyle>
-			<scale>1.1</scale>
+			<scale>1.3</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
@@ -70,33 +70,20 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff005500</color>
+			<color>ff0000aa</color>
 			<width>10</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin1">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin</styleUrl>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin</styleUrl>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_ylw-pushpin1">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff0000aa</color>
-			<width>10</width>
-		</LineStyle>
-	</Style>
 	<Style id="sn_ylw-pushpin1">
 		<IconStyle>
 			<scale>1.1</scale>
@@ -106,16 +93,67 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff0000aa</color>
+			<color>ff005500</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
 			<width>10</width>
 		</LineStyle>
 	</Style>
 	<Folder>
 		<name>Sonatel</name>
 		<open>1</open>
+		<description>Name:  Sonatel
+Cable type: 
+ISO2:sn
+Source URL: http://www.phase3telecom.com/network/
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2012
+Go live date:  
+Capacity:  
+Access Model: 
+Owner:  Sonatel
+Operator: Sonatel
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2</description>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
 		<Placemark>
 			<name>Dagana - Dakar</name>
-			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<description>Name:  Sonatel
+Phase Name:  Existing Fibre
+Cable type: 
+ISO2:sn
+Source URL: http://www.phase3telecom.com/network/
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2012
+Go live date:  
+Capacity:  
+Access Model: 
+Owner:  Sonatel
+Operator: Sonatel
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2</description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -125,7 +163,26 @@
 		</Placemark>
 		<Placemark>
 			<name>Dakar - Mali Border</name>
-			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<description>Name:  Sonatel
+Phase Name:  Existing Fibre
+Cable type: 
+ISO2:sn
+Source URL: http://www.phase3telecom.com/network/
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2012
+Go live date:  
+Capacity:  
+Access Model: 
+Owner:  Sonatel
+Operator: Sonatel
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2</description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -135,7 +192,26 @@
 		</Placemark>
 		<Placemark>
 			<name>Tambacounda - Ziguinchor</name>
-			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<description>Name:  Sonatel
+Phase Name:  Existing Fibre
+Cable type: 
+ISO2:sn
+Source URL: http://www.phase3telecom.com/network/
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2012
+Go live date:  
+Capacity:  
+Access Model: 
+Owner:  Sonatel
+Operator: Sonatel
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2</description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -145,7 +221,26 @@
 		</Placemark>
 		<Placemark>
 			<name>Velingara - Basse, Gambia</name>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<description>Name:  Sonatel
+Phase Name:  Gambia Link
+Cable type: 
+ISO2:sn
+Source URL: http://www.phase3telecom.com/network/
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2012
+Go live date:  
+Capacity:  
+Access Model: 
+Owner:  Sonatel
+Operator: Sonatel
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2</description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -155,6 +250,25 @@
 		</Placemark>
 		<Placemark>
 			<name>Dagana - Kidira</name>
+			<description>Name:  Sonatel
+Phase Name:  Overhead Ground Wire
+Cable type: OGW
+ISO2:sn
+Source URL: http://www.phase3telecom.com/network/
+Notes: 
+Contributor:  Steve Song
+Contributor Email:  stephen.song@gmail.com
+Source: 
+Last update: 2012
+Go live date:  
+Capacity:  
+Access Model: 
+Owner:  Sonatel
+Operator: Sonatel
+Live:  true
+Sharing: 
+Validated by Operator:  False
+Accuracy Confidence: 2</description>
 			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
