@@ -292,7 +292,7 @@ Accuracy Confidence: 2</description>
 		</Style>
 		<Placemark>
 			<name>Harare-Mutare via Masvingo</name>
-			<description>Phase Name: Under Construction
+			<description>Phase Name: Operational
 Name:  LiquidTelecoms
 Cable type: 
 ISO2:zw
@@ -357,7 +357,7 @@ Accuracy Confidence: 2</description>
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Phase Name: Under Construction
+			<name>Phase Name: Operational
 Name:  LiquidTelecoms
 Cable type: 
 ISO2:zw
@@ -376,7 +376,7 @@ Live:  false
 Sharing: 
 Validated by Operator:  False
 Accuracy Confidence: 2</name>
-			<description>Phase Name: Under Construction
+			<description>Phase Name: Operational
 Name:  LiquidTelecoms
 Cable type: 
 ISO2:zw
@@ -409,7 +409,7 @@ Accuracy Confidence: 2</description>
 		</Placemark>
 		<Placemark>
 			<name>Bulawayo-towards-Francistown</name>
-			<description>Phase Name: Under Construction
+			<description>Phase Name: Operational
 Name:  LiquidTelecoms
 Cable type: 
 ISO2:zw
