@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>NITA_Project-Bawku_to_Ho.kml</name>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>NITA PROJECT - BAWKU TO HO</name>
+		<open>1</open>
+		<Placemark>
+			<name>BAWKU TO GUSHEGU</name>
+			<description>Name: NITA Project - Bawku to Ho
+Phase Name: Eastern Corridor
+Cable Type: 48F, UG
+ISO2: GH
+Source URL:
+Notes:
+Contributor: Orlando Reynaldo
+Contributor Email: orlando.reynaldo@gmail.com
+Source:
+Last update: 2014
+Go live date:
+Capacity:
+Access Model:
+Owner: NITA
+Operator: NITA
+Live: true
+Sharing:
+Validated by Operator: true
+Accuracy Confidence: 2</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-0.2372405228348945,11.05721211632343,0 -0.199848460355528,11.06993055013781,0 -0.1907875732086294,10.92085200538231,0 -0.1678197142578157,10.81892955922612,0 -0.2146047506005835,10.70137473240173,0 -0.2090965447756708,10.64828603266283,0 -0.179901089789402,10.63755916759019,0 -0.1669417596325645,10.58335865609152,0 -0.1646694297459784,10.50915834475927,0 -0.09590132820813456,10.40288113308533,0 -0.0926384586910885,10.30210084464395,0 -0.0717135600040144,10.22632110191155,0 -0.09310290123943626,10.11552393845589,0 -0.08767388595513689,10.06376870787548,0 -0.1164368006373988,9.975312128066827,0 -0.1689831718258145,9.940184544388623,0 -0.2180321395362151,9.923225590296935,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>GUSHEGU TO YENDI</name>
+			<description>Name: NITA Project - Bawku to Ho
+Phase Name: Eastern Corridor
+Cable Type: 48F, UG
+ISO2: GH
+Source URL:
+Notes:
+Contributor: Orlando Reynaldo
+Contributor Email: orlando.reynaldo@gmail.com
+Source:
+Last update: 2014
+Go live date:
+Capacity:
+Access Model:
+Owner: NITA
+Operator: NITA
+Live: true
+Sharing:
+Validated by Operator: true
+Accuracy Confidence: 2</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-0.2182958406128908,9.927535289040557,0 -0.1941809694842616,9.881351464146309,0 -0.1162798218048706,9.824259630886859,0 -0.1168085961456662,9.764443447475077,0 -0.09541244385530399,9.697822861522866,0 -0.06544411940704933,9.64770834342989,0 -0.02528253734773352,9.55239209352238,0 -0.02865538285457111,9.514200628494898,0 -0.005002590753840301,9.437377699600718,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>YENDI TO TAMALE</name>
+			<description>Name: NITA Project - Bawku to Ho
+Phase Name: Eastern Corridor
+Cable Type: 48F, UG
+ISO2: GH
+Source URL:
+Notes:
+Contributor: Orlando Reynaldo
+Contributor Email: orlando.reynaldo@gmail.com
+Source:
+Last update: 2014
+Go live date:
+Capacity:
+Access Model:
+Owner: NITA
+Operator: NITA
+Live: true
+Sharing:
+Validated by Operator: true
+Accuracy Confidence: 2</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-0.005652720961601729,9.437290938519244,0 -0.2199800577772636,9.417465351147802,0 -0.3144072470628923,9.416987607928316,0 -0.3739338893908001,9.442744340473881,0 -0.4552349238901364,9.406680879185501,0 -0.5016928617053804,9.395343044426301,0 -0.6221641584911156,9.371514114721377,0 -0.6701343281917205,9.380759985733027,0 -0.7200916465197289,9.374655757879896,0 -0.7742721423824385,9.379109228185387,0 -0.7913072099122477,9.379093482340139,0 -0.8417609680665573,9.404759126829948,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>YENDI TO BIMBILA</name>
+			<description>Name: NITA Project - Bawku to Ho
+Phase Name: Eastern Corridor
+Cable Type: 48F, UG
+ISO2: GH
+Source URL:
+Notes:
+Contributor: Orlando Reynaldo
+Contributor Email: orlando.reynaldo@gmail.com
+Source:
+Last update: 2014
+Go live date:
+Capacity:
+Access Model:
+Owner: NITA
+Operator: NITA
+Live: true
+Sharing:
+Validated by Operator: true
+Accuracy Confidence: 2</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-0.005942600404370246,9.438708621479314,0 -0.006687774383733389,9.382639482993744,0 0.02093564584078304,9.290395173794813,0 0.01823854513557715,9.169339023668144,0 -0.00587175082830867,9.092034758213542,0 -0.01560211791104809,8.929121498154602,0 0.05991456898445369,8.855330725392138,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>BIMBILA TO NKWANTA</name>
+			<description>Name: NITA Project - Bawku to Ho
+Phase Name: Eastern Corridor
+Cable Type: 48F, UG
+ISO2: GH
+Source URL:
+Notes:
+Contributor: Orlando Reynaldo
+Contributor Email: orlando.reynaldo@gmail.com
+Source:
+Last update: 2014
+Go live date:
+Capacity:
+Access Model:
+Owner: NITA
+Operator: NITA
+Live: true
+Sharing:
+Validated by Operator: true
+Accuracy Confidence: 2</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					0.05972502622778772,8.856218603924466,0 0.05471312814371728,8.766023001494673,0 0.1772581501685672,8.693535456576845,0 0.2996219534045967,8.500100516324204,0 0.4038529793156024,8.402730253482218,0 0.5235481672175011,8.264425971727453,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>NKWANTA TO JASIKAN</name>
+			<description>Name: NITA Project - Bawku to Ho
+Phase Name: Eastern Corridor
+Cable Type: 48F, UG
+ISO2: GH
+Source URL:
+Notes:
+Contributor: Orlando Reynaldo
+Contributor Email: orlando.reynaldo@gmail.com
+Source:
+Last update: 2014
+Go live date:
+Capacity:
+Access Model:
+Owner: NITA
+Operator: NITA
+Live: true
+Sharing:
+Validated by Operator: true
+Accuracy Confidence: 2</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					0.5228450553322477,8.262557324538223,0 0.4247485360231649,8.253514729284701,0 0.3851044616589954,8.092227013300301,0 0.170573975811153,8.070204359155689,0 0.3820650128548842,7.980371439690583,0 0.4423967109376981,7.823397729258906,0 0.4157228742629893,7.679636646369663,0 0.4442853607935859,7.59942251927666,0 0.3332780563176341,7.382128447909511,0 0.4008755417298593,7.352911603049479,0 0.4980335675850891,7.372681903084462,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>JASIKAN TO KPANDO</name>
+			<description>Name: NITA Project - Bawku to Ho
+Phase Name: Eastern Corridor
+Cable Type: 48F, UG
+ISO2: GH
+Source URL:
+Notes:
+Contributor: Orlando Reynaldo
+Contributor Email: orlando.reynaldo@gmail.com
+Source:
+Last update: 2014
+Go live date:
+Capacity:
+Access Model:
+Owner: NITA
+Operator: NITA
+Live: true
+Sharing:
+Validated by Operator: true
+Accuracy Confidence: 2</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					0.4985051907257576,7.375551567709431,0 0.5259457958947444,7.163237067454099,0 0.2955440927533812,7.002536026487904,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>KPANDO TO HO</name>
+			<description>Name: NITA Project - Bawku to Ho
+Phase Name: Eastern Corridor
+Cable Type: 48F, UG
+ISO2: GH
+Source URL:
+Notes:
+Contributor: Orlando Reynaldo
+Contributor Email: orlando.reynaldo@gmail.com
+Source:
+Last update: 2014
+Go live date:
+Capacity:
+Access Model:
+Owner: NITA
+Operator: NITA
+Live: true
+Sharing:
+Validated by Operator: true
+Accuracy Confidence: 2</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					0.2950394017415212,7.002640283214052,0 0.3688916082158901,6.771650736963974,0 0.2464963087146987,6.519914276533496,0 0.4709505675136123,6.60952603943878,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
